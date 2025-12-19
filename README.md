@@ -1,91 +1,37 @@
-# Coffee-Sales-Analysis
-☕ Coffee Sales Analysis Project
-📌 Project Overview
+☕ Coffee Sales Analysis – Data Analytics Project
+📌 Overview
 
-This project analyzes coffee shop sales data to uncover sales trends, customer purchasing behavior, and revenue drivers.
-The goal is to support data-driven business decisions such as inventory planning, pricing strategy, and peak-hour optimization.
+Analyzed coffee shop sales data to identify revenue drivers, customer purchasing patterns, and peak sales periods.
+The project demonstrates data cleaning, exploratory analysis, and business insight generation using Python.
 
-The analysis uses Python and data visualization to transform raw transaction data into actionable insights.
+🛠 Tech Stack
 
-🎯 Business Objectives
+Python | Pandas | NumPy | Matplotlib | Seaborn | Jupyter Notebook
 
-Identify best-selling coffee products
+🔍 Key Analyses
 
-Analyze sales trends over time
+Sales trends over time (daily / monthly)
 
-Determine peak sales hours and days
+Peak hours and weekday performance
 
-Understand price vs demand relationships
+Top-selling products & categories
 
-Provide actionable recommendations to improve revenue and operations
+Price vs demand analysis
 
-📊 Key Analysis Performed
-📈 Sales Performance Analysis
-
-Total revenue and total transactions
-
-Daily, weekly, and monthly sales trends
-
-Moving averages (7-day & 30-day)
-
-🕒 Time-Based Analysis
-
-Peak sales hours (rush hours)
-
-Sales distribution by weekday
-
-Morning vs afternoon vs evening performance
-
-☕ Product Analysis
-
-Top-selling coffee products
-
-Category-wise sales contribution
-
-Product market share (pie chart analysis)
-
-💰 Pricing Analysis
-
-Price vs quantity sold relationship
-
-Identification of high-revenue vs low-volume items
-
-Demand sensitivity to price changes
-
-📌 Key Insights
-
-A small number of products generate the majority of revenue (Pareto effect)
+📊 Key Insights
 
 Sales peak during morning rush hours
 
-Weekdays outperform weekends in total revenue
+A few products generate most of the revenue (Pareto effect)
 
-Mid-priced coffee items show higher demand consistency
+Mid-priced items show stable demand
 
-Certain products perform better at specific times of day
+Weekdays outperform weekends in total sales
 
-✅ Business Recommendations
+💼 Business Value
 
-Increase stock for top-selling products during peak hours
+Optimizes inventory and staffing decisions
 
-Introduce bundled offers during off-peak hours
+Supports pricing and promotion strategies
 
-Optimize staffing based on hourly demand
-
-Promote high-margin products with moderate demand
-
-Test dynamic pricing during rush hours
-
-📊 Visualizations Included
-
-Line charts (sales trends)
-
-Bar charts (top products, weekday sales)
-
-Pie charts (product market share)
-
-Heatmaps (hour vs weekday demand)
-
-Moving average plots
-
-
+Improves revenue forecasting and planning
