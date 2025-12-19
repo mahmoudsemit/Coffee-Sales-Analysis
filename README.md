@@ -1,20 +1,19 @@
-☕ Coffee Sales Analysis – Data Analytics Project
+☕ Coffee Sales Analysis – Python & Power BI
 📌 Overview
 
-Analyzed coffee shop sales data to identify revenue drivers, customer purchasing patterns, and peak sales periods.
-The project demonstrates data cleaning, exploratory analysis, and business insight generation using Python.
+Analyzed coffee shop sales data using Python for data analysis and Power BI for interactive dashboards to identify sales trends, top-performing products, and peak business hours that support data-driven decision-making.
 
 🛠 Tech Stack
 
-Python | Pandas | NumPy | Matplotlib | Seaborn | Jupyter Notebook
+Python (Pandas, NumPy) | Power BI | Excel / CSV
 
 🔍 Key Analyses
 
-Sales trends over time (daily / monthly)
+Sales trends over time
 
 Peak hours and weekday performance
 
-Top-selling products & categories
+Top-selling products and categories
 
 Price vs demand analysis
 
@@ -22,16 +21,29 @@ Price vs demand analysis
 
 Sales peak during morning rush hours
 
-A few products generate most of the revenue (Pareto effect)
-
-Mid-priced items show stable demand
+A small number of products generate most revenue
 
 Weekdays outperform weekends in total sales
 
+Mid-priced items show stable demand
+
 💼 Business Value
 
-Optimizes inventory and staffing decisions
+Optimizes inventory and staffing
 
 Supports pricing and promotion strategies
 
-Improves revenue forecasting and planning
+Improves revenue planning and forecasting
+
+📁 Files
+
+coffee_sales_analysis.ipynb – Python analysis
+
+coffee_sales_dashboard.pbix – Power BI dashboard
+
+coffee_sales.csv – Dataset
+
+👤 Author
+
+Mahmoud Ibrahim
+Aspiring Data Analyst
